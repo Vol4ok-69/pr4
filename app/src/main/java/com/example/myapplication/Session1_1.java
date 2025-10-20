@@ -1,5 +1,4 @@
 package com.example.myapplication;
 
-public class main
-{
+public class Session1_1 {
 }
