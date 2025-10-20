@@ -4,4 +4,5 @@ public class Session2 {
     var a;
     var b;
     var c;
+    var d;
 }
